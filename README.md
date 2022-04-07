@@ -5,7 +5,7 @@ Enhancing Kenyan Coffee Supply Chain Through Integrated Multidimensional Analysi
 
 # Input-Output Analyis
 The model adopted in this research is a demand driven input-output model based on Supply and Use Tables (SUT).
-For performing the impact assessment using the Input-Output Analysis, **mario** is used. **mario** is a python package for handling input-output tables and scenario analysis.
+For performing the impact assessment using the Input-Output Analysis, **mario** is used. [**mario**](https://github.com/SESAM-Polimi/MARIO) is a python package for handling input-output tables and scenario analysis.
 
 ## How To Use
 Inside **Input-Output Analysis** folder, following files can be found:
